@@ -27,5 +27,5 @@ notifica_joc_manual("https://itch.io")
 *   `biblioteca_jocuri.csv`: Cache-ul local pentru a compara prețurile noi cu cele vechi.
 *   `istoric_detaliat.csv`: Jurnalul tuturor evenimentelor detectate de la prima rulare.
 
-## ⚖️ Note
+##  Note
 Scriptul folosește un `User-Agent` pentru a evita blocarea cererilor și are un mecanism de tratare a erorilor (try-except) pentru a preveni oprirea scriptului în cazul în care un link este invalid.
